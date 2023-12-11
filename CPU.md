@@ -39,3 +39,7 @@
     Route Cables: Neatly route the CPU cooler cables to avoid interference with other components. Use cable ties for tidy cable management.
 
     Congratulations! You've successfully installed the CPU and cooler, a critical step in building your custom PC. In the following steps, you'll continue to add components such as storage, graphics card, power supply, and more.
+
+[Next Step](https://github.com/grant-trent/1600FinalProject/blob/main/Storage.md)
+
+[Back to home](https://github.com/grant-trent/1600FinalProject/tree/main)

@@ -51,3 +51,5 @@
     Run Stability Tests: Optionally, run stress tests to check the stability of your system. This helps identify any potential issues.
 
 Congratulations! You've successfully powered on and set up your custom-built PC. Enjoy your personalized computing experience! If you encounter any issues, refer to your component manuals or online resources for troubleshooting assistance.
+
+[Back to home](https://github.com/grant-trent/1600FinalProject/tree/main)

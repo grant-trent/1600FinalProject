@@ -31,3 +31,7 @@
 
 
 Congratulations! You've successfully installed the storage devices in your PC, providing the necessary space for your operating system, applications, and files. In the upcoming steps, you'll continue building your custom PC by adding the graphics card, power supply, and powering on the system.
+
+[Next Step](https://github.com/grant-trent/1600FinalProject/blob/main/GraphicsCard.md)
+
+[Back to home](https://github.com/grant-trent/1600FinalProject/tree/main)

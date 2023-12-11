@@ -31,3 +31,7 @@
     Final Checks: Before moving on to the next step, ensure that the graphics card is securely installed, power cables are connected, and the PCIe slot latch is engaged.
 
 Congratulations! You've successfully installed the graphics card in your PC, adding the capability for high-performance graphics and gaming. In the subsequent steps, you'll continue by adding the power supply and finally powering on the system.
+
+[Next Step](https://github.com/grant-trent/1600FinalProject/blob/main/PowerSupply.md)
+
+[Back to home](https://github.com/grant-trent/1600FinalProject/tree/main)

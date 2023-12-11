@@ -43,3 +43,7 @@ If you saved connecting all the parts together for the end, then this portion is
     Final Checks: Conduct a final visual inspection to ensure all components are securely installed, and cables are correctly connected.
 
 Congratulations! You've successfully connected all necessary cables in your PC. In the final step, you'll power on the system and begin the initial setup.
+
+[Next Step](https://github.com/grant-trent/1600FinalProject/blob/main/PoweringOn.md)
+
+[Back to home](https://github.com/grant-trent/1600FinalProject/tree/main)

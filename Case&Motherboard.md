@@ -1,4 +1,4 @@
-# Motherboard
+# Case and Motherboard
 
 Welcome to the first step in the PC building tutorial!
 
@@ -41,3 +41,7 @@ Before diving into the case installation, make sure you have all the necessary t
 
 
 Congratulations! You've successfully installed your motherboard into the case. This foundational step sets the stage for the assembly of the rest of your PC components.
+
+[Next Step](https://github.com/grant-trent/1600FinalProject/blob/main/Memory.md)
+
+[Back to home](https://github.com/grant-trent/1600FinalProject/tree/main)

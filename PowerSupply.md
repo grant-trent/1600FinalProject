@@ -31,3 +31,7 @@
     Final Checks: Before moving on to the next step, double-check that the power supply cables are securely connected to all components.
 
 Congratulations! You've successfully installed the power supply in your PC, providing the necessary electrical power for all components.
+
+[Next Step](https://github.com/grant-trent/1600FinalProject/blob/main/ConnectingCables.md)
+
+[Back to home](https://github.com/grant-trent/1600FinalProject/tree/main)

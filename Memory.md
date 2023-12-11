@@ -21,3 +21,7 @@
     Check Clips: Ensure that the latches on both ends of the memory modules are securely locked into place.
 
 Congratulations! You've successfully installed memory modules into your motherboard. This step significantly contributes to your system's performance and multitasking capabilities. In the subsequent steps, you'll continue building your custom PC by adding the CPU, storage, graphics card, and more.
+
+[Next Step](https://github.com/grant-trent/1600FinalProject/blob/main/CPU.md)
+
+[Back to home](https://github.com/grant-trent/1600FinalProject/tree/main)
